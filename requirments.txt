@@ -1,0 +1,10 @@
+PHP 8.3
+Extensions:
+- intl
+- mbstring
+- openssl
+- pdo_mysql
+- fileinfo
+
+after add install bootstrap.js file
+npm install axios
